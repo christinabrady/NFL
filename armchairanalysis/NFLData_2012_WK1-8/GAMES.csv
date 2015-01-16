@@ -1,0 +1,119 @@
+GID,SEAS,WEEK,DAY,V,H,STAD,TEMP,HUMD,WSPD,WDIR,COND,SURF,OU,SPRV,PTSV,PTSH
+3189,2012,1,WED,DAL,NYG,MetLife Stadium,77,63,5,WNW,Fair,FieldTurf,44.5,4,24,17
+3190,2012,1,SUN,IND,CHI,Soldier Field,67,66,13,N,Partly Cloudy,Grass,43.5,10,21,41
+3191,2012,1,SUN,PHI,CLE,Cleveland Browns Stadium,68,57,9,NNW,Sunny,Grass,43,-9.5,17,16
+3192,2012,1,SUN,ATL,KC,Arrowhead Stadium,69,47,7,NE,Sunny,Grass,43.5,-2.5,40,24
+3193,2012,1,SUN,BUF,NYJ,Metlife Stadium,74,48,1,W,Sunny,FieldTurf,38.5,3,28,48
+3194,2012,1,SUN,STL,DET,Ford Field,NULL,\N,\N,\N,Dome,FieldTurf,45.5,8.5,23,27
+3195,2012,1,SUN,WAS,NO,Mercedes-Benz Superdome,NULL,\N,\N,\N,Dome,UBU Speed Series S5M,49.5,7.5,40,32
+3196,2012,1,SUN,MIA,HOU,Reliant Stadium,NULL,\N,\N,\N,Closed Roof,Grass,42.5,13,10,30
+3197,2012,1,SUN,NE,TEN,LP Field,NULL,\N,\N,\N,Sunny,Grass,47,-4.5,34,13
+3198,2012,1,SUN,JAC,MIN,Mall of America Field at HHH Metrodome,NULL,\N,\N,\N,Dome,AstroTurf,38,3.5,23,26
+3199,2012,1,SUN,CAR,TB,Raymond James Stadium,83,79,15,SW,Cloudy,Grass,47,-2.5,10,16
+3200,2012,1,SUN,SEA,ARI,University of Phoenix Stadium,NULL,\N,\N,\N,Closed Roof,Grass,40.5,-3,16,20
+3201,2012,1,SUN,SF,GB,Lambeau Field,72,40,11,NW,Partly Cloudy,DD GrassMaster,46.5,5,30,22
+3202,2012,1,SN,PIT,DEN,Sports Authority Field at Mile High,85,12,10,NE,Sunny,Grass,46,2,19,31
+3203,2012,1,MN,CIN,BAL,M & T Bank Stadium,74,37,10,NW,Clear,MomentumTurf,41,7,13,44
+3204,2012,1,MN,SD,OAK,Oakland-Alameda County Coliseum,67,59,11,WNW,Sunny,Grass,46.5,1,22,14
+3205,2012,2,THU,CHI,GB,Lambeau Field,60,67,0,CALM,Cloudy,DD GrassMaster,51,6,10,23
+3206,2012,2,SUN,CLE,CIN,Paul Brown Stadium,76,37,5,SSE,Sunny,FieldTurf,39.5,7,27,34
+3207,2012,2,SUN,KC,BUF,Ralph Wilson Stadium,66,55,11,WSW,Mostly Sunny,A Turf Titan,44.5,3,17,35
+3208,2012,2,SUN,MIN,IND,Lucas Oil Stadium,72,41,7,SSE,Sunny,AstroTurf,44.5,-3,20,23
+3209,2012,2,SUN,BAL,PHI,Lincoln Financial Field,72,40,5,W,Sunny,Grass,46.5,2.5,23,24
+3210,2012,2,SUN,TB,NYG,MetLife Stadium,73,39,1,W,Mostly Sunny,FieldTurf,44,7,34,41
+3211,2012,2,SUN,HOU,JAC,EverBank Field,83,66,5,E,Sunny,Grass,41,-7,27,7
+3212,2012,2,SUN,NO,CAR,Bank of America Stadium,71,85,4,ENE,Cloudy,Grass,51.5,-2.5,27,35
+3213,2012,2,SUN,ARI,NE,Gillette Stadium,64,55,2,S,Partly Cloudy,FieldTurf,48,13.5,20,18
+3214,2012,2,SUN,WAS,STL,Edward Jones Dome,NULL,\N,\N,\N,Dome,AstroTurf,44,-3.5,28,31
+3215,2012,2,SUN,DAL,SEA,CenturyLink Field,68,56,4,NNW,Sunny,FieldTurf,42.5,-3,7,27
+3216,2012,2,SUN,TEN,SD,Qualcomm Stadium,85,37,8,S,Sunny,Grass,43,7,10,38
+3217,2012,2,SUN,OAK,MIA,Sun Life Stadium,80,75,8,E,Cloudy,Grass,39,-2.5,13,35
+3218,2012,2,SUN,NYJ,PIT,Heinz Field,71,36,2,ENE,Fair,Grass,42,5.5,10,27
+3219,2012,2,SN,DET,SF,Candlestick Park,62,62,15,NW,Mostly Sunny,Grass,46,7,19,27
+3220,2012,2,MN,DEN,ATL,Georgia Dome,NULL,\N,\N,\N,Dome,FieldTurf,51,3,21,27
+3221,2012,3,THU,NYG,CAR,Bank of America Stadium,75,56,3,WSW,Partly Cloudy,Grass,50,2.5,36,7
+3222,2012,3,SUN,STL,CHI,Soldier Field,56,42,10,NW,Partly Cloudy,Grass,44.5,7,6,23
+3223,2012,3,SUN,BUF,CLE,Cleveland Browns Stadium,53,79,9,SW,Rain,Grass,43,-3,24,14
+3224,2012,3,SUN,JAC,IND,Lucas Oil Stadium,59,46,10,WNW,Partly Cloudy,AstroTurf,42,3,22,17
+3225,2012,3,SUN,TB,DAL,Cowboys Stadium,NULL,\N,\N,\N,Closed Roof,AstroTurf,46.5,7,10,16
+3226,2012,3,SUN,NYJ,MIA,Sun Life Stadium,83,76,4,NNW,Mostly Cloudy,Grass,40,-2.5,23,20
+3227,2012,3,SUN,CIN,WAS,FedExField,65,40,6,N,Sunny,Grass,49,3,38,31
+3228,2012,3,SUN,KC,NO,Mercedes-Benz Superdome,84,\N,\N,\N,Dome,UBU Speed Series S5M,53,8.5,27,24
+3229,2012,3,SUN,DET,TEN,LP Field,68,32,5,E,Sunny,Grass,47,-3.5,41,44
+3230,2012,3,SUN,SF,MIN,Mall of America Field at HHH Metrodome,67,\N,\N,\N,Dome,UBU Speed Series S5M,43,-7,13,24
+3231,2012,3,SUN,PHI,ARI,University of Phoenix Stadium,NULL,\N,\N,\N,\N,Grass,43.5,-3.5,6,27
+3232,2012,3,SUN,ATL,SD,Qualcomm Stadium,82,52,13,WSW,Sunny,Grass,47.5,3,27,3
+3233,2012,3,SUN,HOU,DEN,Sports Authority Field at Mile High,84,10,13,NW,Partly Sunny,Grass,46,-2,31,25
+3234,2012,3,SUN,PIT,OAK,Oakland-Alameda County Coliseum,69,53,10,WNW,Cloudy,Grass,44.5,-4,31,34
+3235,2012,3,SN,NE,BAL,M & T Bank Stadium,67,39,5,NW,Partly Cloudy,MomentumTurf,49.5,3,30,31
+3236,2012,3,MN,GB,SEA,CenturyLink Field,67,49,3,NW,Sunny,FieldTurf,47,-3,12,14
+3237,2012,4,THU,CLE,BAL,M & T Bank Stadium,77,64,5,E,Rain,MomentumTurf,43.5,12,16,23
+3238,2012,4,SUN,NE,BUF,Ralph Wilson Stadium,58,72,7,N,Partly Cloudy,A Turf Titan,48.5,-4,52,28
+3239,2012,4,SUN,SD,KC,Arrowhead Stadium,67,54,0,CALM,Cloudy,Grass,44.5,-1,37,20
+3240,2012,4,SUN,CAR,ATL,Georgia Dome,NULL,\N,\N,\N,Dome,fficials,48.5,7,28,30
+3241,2012,4,SUN,SF,NYJ,Metlife Stadium,67,50,4,WNW,Partly Cloudy,FieldTurf,41,-4,34,0
+3242,2012,4,SUN,MIN,DET,Ford Field,68,\N,\N,\N,Dome,FieldTurf,49,4,20,13
+3243,2012,4,SUN,SEA,STL,Edward Jones Dome,NULL,\N,\N,\N,Dome,AstroTurf,39,-3,13,19
+3244,2012,4,SUN,TEN,HOU,Reliant Stadium,71,91,15,NNW,Closed Roof,Grass,44.5,12.5,14,38
+3245,2012,4,SUN,OAK,DEN,Sports Authority Field at Mile High,72,26,6,NE,Mostly Sunny,Grass,48.5,7,6,37
+3246,2012,4,SUN,MIA,ARI,University of Phoenix Stadium,NULL,\N,\N,\N,Closed Roof,Grass,40.5,4.5,21,24
+3247,2012,4,SUN,CIN,JAC,EverBank Field,86,62,7,SE,Chance Rain,Grass,44.5,-1,27,10
+3248,2012,4,SUN,WAS,TB,Raymond James Stadium,89,52,11,SSW,Sunny,Grass,46.5,2,24,22
+3249,2012,4,SUN,NO,GB,Lambeau Field,64,58,7,E,Partly Cloudy,DD GrassMaster,53,7.5,27,28
+3250,2012,4,SN,NYG,PHI,Lincoln Financial Field,63,59,6,W,Partly Cloudy,Grass,47,2.5,17,19
+3251,2012,4,MN,CHI,DAL,Cowboys Stadium,80,28,3,N,Closed Roof,AstroTurf,41.5,3,34,18
+3252,2012,5,THU,ARI,STL,Edward Jones Dome,NULL,\N,\N,\N,Dome,AstroTurf,38.5,-1,3,17
+3253,2012,5,SUN,MIA,CIN,Paul Brown Stadium,49,55,6,WSW,Cloudy,UBU Sports Speed Series 55,45,3,17,13
+3254,2012,5,SUN,BAL,KC,Arrowhead Stadium,47,45,0,CALM,Sunny,Grass,46.5,-6.5,9,6
+3255,2012,5,SUN,GB,IND,Lucas Oil Stadium,NULL,\N,\N,\N,Closed Roof,AstroTurf,48,-7,27,30
+3256,2012,5,SUN,CLE,NYG,MetLife Stadium,51,84,2,S,Rain,FieldTurf,44,8.5,27,41
+3257,2012,5,SUN,ATL,WAS,FedExField,52,77,3,NE,Cloudy,Grass,51.5,-3,24,17
+3258,2012,5,SUN,PHI,PIT,Heinz Field,48,68,4,WSW,Cloudy,Grass,43,3,14,16
+3259,2012,5,SUN,TEN,MIN,Mall of America Field at HHH Metrodome,66,\N,\N,\N,Dome,UBU Speed Series S5M,44,5.5,7,30
+3260,2012,5,SUN,CHI,JAC,EverBank Field,88,53,3,SW,Cloudy,Grass,41,-5.5,41,3
+3261,2012,5,SUN,SEA,CAR,Bank of America Stadium,63,69,6,N,Cloudy,Grass,43.5,3,16,12
+3262,2012,5,SUN,BUF,SF,Candlestick Park,62,70,8,W,Sunny,Grass,44.5,9.5,3,45
+3263,2012,5,SUN,DEN,NE,Gillette Stadium,54,65,4,S,Rain,FieldTurf,52,6.5,21,31
+3264,2012,5,SN,SD,NO,Mercedes-Benz Superdome,65,\N,\N,\N,Dome,UBU Speed Series S5M,53,3.5,24,31
+3265,2012,5,MN,HOU,NYJ,Metlife Stadium,52,69,4,N,Partly Cloudy,FieldTurf,41.5,-8,23,17
+3266,2012,6,THU,PIT,TEN,LP Field,64,52,2,W,Clear,Grass,42,-5.5,23,26
+3267,2012,6,SUN,CIN,CLE,Cleveland Browns Stadium,70,65,19,S,Sunny,Grass,44,-1,24,34
+3268,2012,6,SUN,KC,TB,Raymond James Stadium,85,55,9,E,Sunny,Grass,40,3.5,10,38
+3269,2012,6,SUN,STL,MIA,Sun Life Stadium,84,72,20,ENE,Cloudy,Grass,37.5,3.5,14,17
+3270,2012,6,SUN,DET,PHI,Lincoln Financial Field,66,58,15,SSW,Sunny,Grass,47.5,4.5,26,23
+3271,2012,6,SUN,OAK,ATL,Georgia Dome,NULL,\N,\N,\N,Dome,FieldTurf,48.5,8.5,20,23
+3272,2012,6,SUN,IND,NYJ,Metlife Stadium,65,55,14,SW,Clear,FieldTurf,42.5,3,9,35
+3273,2012,6,SUN,DAL,BAL,M & T Bank Stadium,69,45,11,SW,Partly Cloudy,MomentumTurf,44.5,3.5,29,31
+3274,2012,6,SUN,BUF,ARI,University of Phoenix Stadium,NULL,\N,\N,\N,Closed Roof,Grass,43,4.5,19,16
+3275,2012,6,SUN,NE,SEA,CenturyLink Field,63,80,9,SSE,Cloudy,FieldTurf,44.5,-3.5,23,24
+3276,2012,6,SUN,NYG,SF,Candlestick Park,61,80,7,NW,Sunny,Grass,44.5,5,26,3
+3277,2012,6,SUN,MIN,WAS,FedExField,74,40,14,S,Sunny,Grass,48,2.5,26,38
+3278,2012,6,SN,GB,HOU,Reliant Stadium,NULL,\N,\N,\N,Closed Roof,Grass,48,3.5,42,24
+3279,2012,6,MN,DEN,SD,Qualcomm Stadium,78,50,7,WSW,Sunny,Grass,49.5,2,35,24
+3280,2012,7,THU,SEA,SF,Candlestick Park,80,30,15,S,Sunny,Grass,37.5,7,6,13
+3281,2012,7,SUN,TEN,BUF,Ralph Wilson Stadium,55,75,15,WSW,Mostly Sunny,A Turf Titan,46.5,3,35,34
+3282,2012,7,SUN,NO,TB,Raymond James Stadium,77,36,8,NNE,Sunny,Grass,49.5,-2,35,28
+3283,2012,7,SUN,CLE,IND,Lucas Oil Stadium,60,65,9,S,Sunny,AstroTurf,45.5,2,13,17
+3284,2012,7,SUN,WAS,NYG,MetLife Stadium,61,44,11,NW,Mostly Sunny,FieldTurf,51,6,23,27
+3285,2012,7,SUN,DAL,CAR,Bank of America Stadium,62,43,8,ENE,Sunny,Grass,46,-2.5,19,14
+3286,2012,7,SUN,GB,STL,Edward Jones Dome,NULL,\N,\N,\N,Dome,AstroTurf,45.5,-5.5,30,20
+3287,2012,7,SUN,BAL,HOU,Reliant Stadium,NULL,\N,\N,\N,Closed Roof,Grass,48.5,7,13,43
+3288,2012,7,SUN,ARI,MIN,Mall of America Field at HHH Metrodome,64,\N,\N,\N,Dome,UBU Speed Series S5M,40.5,6.5,14,21
+3289,2012,7,SUN,NYJ,NE,Gillette Stadium,62,39,WNW,13,Partly Cloudy,FieldTurf,47.5,10.5,26,29
+3290,2012,7,SUN,JAC,OAK,Oakland-Alameda County Coliseum,62,49,11,WSW,Partly Cloudy,Grass,44,4,23,26
+3291,2012,7,SN,PIT,CIN,Paul Brown Stadium,55,76,1,S,Clear,UBU Sports Speed Series S5,45,-1,24,17
+3292,2012,7,MN,DET,CHI,Soldier Field,63,89,8,S,Cloudy,Grass,47,6.5,7,13
+3293,2012,8,THU,TB,MIN,Mall of America Field at HHH Metrodome,66,\N,\N,\N,Dome,UBU Speed Series S5M,41.5,6.5,36,17
+3294,2012,8,SUN,CAR,CHI,Soldier Field,49,51,18,NE,Cloudy,Grass,43,7.5,22,23
+3295,2012,8,SUN,SD,CLE,Cleveland Browns Stadium,44,89,19,NNE,Cloudy,Grass,43.5,-3,6,7
+3296,2012,8,SUN,ATL,PHI,Lincoln Financial Field,58,75,23,NE,Mostly Cloudy,Grass,43.5,3,30,17
+3297,2012,8,SUN,MIA,NYJ,Metlife Stadium,60,62,13,NNE,Clear,FieldTurf,39,2,30,9
+3298,2012,8,SUN,SEA,DET,Ford Field,NULL,\N,\N,\N,Dome,FieldTurf,42.5,2.5,24,28
+3299,2012,8,SUN,JAC,GB,Lambeau Field,44,47,10,NE,Sunny,DD GrassMaster,45.5,14.5,15,24
+3300,2012,8,SUN,NE,STL,Wembley Stadium,49,84,9,SW,Mostly Cloudy,Grass,47,-7,45,7
+3301,2012,8,SUN,WAS,PIT,Heinz Field,45,88,10,N,Cloudy,Grass,46,4,12,27
+3302,2012,8,SUN,IND,TEN,LP Field,52,49,18,N,Sunny,Grass,47,3.5,19,13
+3303,2012,8,SUN,OAK,KC,Arrowhead Stadium,50,40,3,ENE,Sunny,Grass,42,1,26,16
+3304,2012,8,SUN,NYG,DAL,Cowboys Stadium,62,\N,\N,\N,Closed Roof,,48,-2,29,24
+3305,2012,8,SN,NO,DEN,Sports Authority Field at Mile High,59,30,5,S,Partly Cloudy,Grass,54.5,6,14,34
+3306,2012,8,MN,SF,ARI,University of Phoenix Stadium,90,11,5,W,Sunny,Grass,38,-7,24,3
